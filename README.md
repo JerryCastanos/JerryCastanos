@@ -116,6 +116,15 @@ AI product executive and operations leader with experience building and scaling 
 - Designed data normalization layers for machine-readable opportunity analysis  
 - Developed API-driven architectures for AI workflow automation  
 
+<img src="https://cdn.simpleicons.org/sap" width="30"/>
+<img src="https://cdn.simpleicons.org/microsoft" width="30"/>
+<img src="https://cdn.simpleicons.org/powerbi" width="30"/>
+<img src="https://cdn.simpleicons.org/github" width="30"/>
+
+![AI](https://img.shields.io/badge/AI-Generative%20AI-blue)
+![API](https://img.shields.io/badge/API-REST%20Integration-green)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-orange)
+![Data](https://img.shields.io/badge/Data-SQL%20%7C%20Pipelines-lightgrey)
 ---
 
 ## 📊 Key Metrics
@@ -127,7 +136,10 @@ AI product executive and operations leader with experience building and scaling 
 - 22% increase in win rates  
 - 94% customer retention  
 - $4.3M capital raised  
-
+![Assets](https://img.shields.io/badge/Assets%20Managed-$650M+-brightgreen)
+![Warehouse](https://img.shields.io/badge/Warehouse-808K%20sqft-blue)
+![Team](https://img.shields.io/badge/Team-156%20FTE-orange)
+![Efficiency](https://img.shields.io/badge/Efficiency-30%25%20Improvement-success)
 ---
 
 ## What I’m Building
@@ -197,7 +209,4 @@ Western Governors University
 ## 📬 Contact
 - LinkedIn: [[link]  ](https://www.linkedin.com/in/jerrycastanos/)
 
-![Assets](https://img.shields.io/badge/Assets%20Managed-$650M+-brightgreen)
-![Warehouse](https://img.shields.io/badge/Warehouse-808K%20sqft-blue)
-![Team](https://img.shields.io/badge/Team-156%20FTE-orange)
-![Efficiency](https://img.shields.io/badge/Efficiency-30%25%20Improvement-success)
+
