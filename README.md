@@ -115,12 +115,6 @@ AI product executive and operations leader with experience building and scaling 
 - Designed data normalization layers for machine-readable opportunity analysis  
 - Developed API-driven architectures for AI workflow automation  
 
-<img src="https://cdn.simpleicons.org/sap" width="30"/>
-<img src="https://cdn.simpleicons.org/microsoft" width="30"/>
-<img src="https://cdn.simpleicons.org/powerbi" width="30"/>
-<img src="https://cdn.simpleicons.org/github" width="30"/>
-
-
 ---
 
 ## 📊 Key Metrics
