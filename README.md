@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/jerrycastanos/
 ---
 
 ## 🚀 Executive Summary
-AI product executive and operations leader with experience building and scaling Generative AI platforms for government and defense environments. Proven track record delivering measurable impact across product, logistics, and data systems: reduced proposal development time by 30%, increased win rates by 22%, and managed $650M+ in assets across 800K+ sq ft operations. Deep expertise in API-driven architectures, federal data systems, and AI-enabled workflow automation.
+AI product executive and operations leader with experience building and scaling Generative AI platforms for government and defense environments. Proven track record delivering measurable impact across product, logistics, and data systems: reduced proposal development time by 30%, increased win rates by 22%. Deep expertise in federal data systems, and AI-enabled workflow automation.
 
 ---
 
@@ -29,15 +29,14 @@ AI product executive and operations leader with experience building and scaling 
 - Built and scaled a Generative AI platform for federal proposal automation from MVP to multi-agency deployment
 - Reduced proposal development time by **30% (14 days → <10 days)** via AI-driven solicitation parsing and FAR/DFARS compliance analysis
 - Increased client win rates by **22% (31% → 53%)** using AI-powered gap analysis and competitive positioning
-- Achieved **94% customer retention at Month 12** through continuous discovery and product-led growth
 - Integrated federal data sources via APIs (SAM.gov, GovWin, FPDS) to automate opportunity discovery and qualification
 
-**Tech Stack:** GPT-4 Turbo, LangChain, Pinecone, PostgreSQL, FastAPI, AWS
+**Tech Stack:** OpenAI, LangChain, Pinecone, PostgreSQL, FastAPI,
 
 ---
 
 ### LLM Observability & Cost Optimization
-- Implemented LLM observability stack (Langfuse, OpenLIT)
+- Implemented LLM observability stack 
 - Enabled cost-per-query tracking, latency monitoring, and output quality evaluation
 - Reduced AI inference costs by **18%** through prompt optimization and model routing
 
@@ -121,25 +120,17 @@ AI product executive and operations leader with experience building and scaling 
 <img src="https://cdn.simpleicons.org/powerbi" width="30"/>
 <img src="https://cdn.simpleicons.org/github" width="30"/>
 
-![AI](https://img.shields.io/badge/AI-Generative%20AI-blue)
-![API](https://img.shields.io/badge/API-REST%20Integration-green)
-![Cloud](https://img.shields.io/badge/Cloud-AWS-orange)
-![Data](https://img.shields.io/badge/Data-SQL%20%7C%20Pipelines-lightgrey)
+
 ---
 
 ## 📊 Key Metrics
-- $650M+ assets managed  
-- 808,000+ sq ft warehouse operations  
-- 156 FTE / 312,000+ labor hours  
-- $9M–$12M labor value oversight  
 - 30% reduction in proposal development time  
 - 22% increase in win rates  
-- 94% customer retention  
-- $4.3M capital raised  
-![Assets](https://img.shields.io/badge/Assets%20Managed-$650M+-brightgreen)
-![Warehouse](https://img.shields.io/badge/Warehouse-808K%20sqft-blue)
+- $4.3M capital raised   
+
 ![Team](https://img.shields.io/badge/Team-156%20FTE-orange)
 ![Efficiency](https://img.shields.io/badge/Efficiency-30%25%20Improvement-success)
+
 ---
 
 ## What I’m Building
