@@ -131,7 +131,6 @@ AI product executive and operations leader with experience building and scaling 
 
 ## 📊 Key Metrics
 - 30% reduction in proposal development time  
-- 22% increase in win rates  
 - $4.3M capital raised   
 
 ![Team](https://img.shields.io/badge/Team-156%20FTE-orange)
