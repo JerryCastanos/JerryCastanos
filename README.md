@@ -2,8 +2,11 @@
 **Chief Product Officer | AI / GovTech Platforms | API-Driven Systems**
 
 Global | Open to Global and Remote Roles  
+
 LinkedIn: https://www.linkedin.com/in/jerrycastanos/
+
 Patent: https://patents.google.com/patent/US20250173744A1/en
+
 ---
 
 ## 🚀 Executive Summary
