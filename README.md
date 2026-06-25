@@ -3,7 +3,7 @@
 
 Global | Open to Global and Remote Roles  
 LinkedIn: https://www.linkedin.com/in/jerrycastanos/
-
+Patent: https://patents.google.com/patent/US20250173744A1/en
 ---
 
 ## 🚀 Executive Summary
@@ -25,13 +25,22 @@ AI product executive and operations leader with experience building and scaling 
 
 ## 🏗️ Featured Work
 
-### AI-Powered Federal Proposal Platform (Standup AI)
-- Built and scaled a Generative AI platform for federal proposal automation from MVP to multi-agency deployment
-- Reduced proposal development time by **30% (14 days → <10 days)** via AI-driven solicitation parsing and FAR/DFARS compliance analysis
-- Increased client win rates by **22% (31% → 53%)** using AI-powered gap analysis and competitive positioning
-- Integrated federal data sources via APIs (SAM.gov, GovWin, FPDS) to automate opportunity discovery and qualification
+### AI-Powered Practice Operations Platform for UK Barristers' Chambers (Clerk IQ)
 
-**Tech Stack:** OpenAI, LangChain, Pinecone, PostgreSQL, FastAPI,
+- Founded and built an AI-powered practice-operations platform for UK barristers' chambers, covering internal administrative workflows — scheduling, marketing, time/task tracking, and document management (non-legal-advisory; operations only)
+- Conducted discovery with 4 UK barristers to map operational pain points and define product requirements within UK regulatory and data-handling constraints
+- Developed PRDs based on user research; built user stories and personas to guide feature prioritization and design decisions
+- Architected and shipped 5 core modules supporting 2 distinct user roles over 9 months as a solo founder, owning product design, AI/automation features, and core infrastructure
+
+**Tech Stack:** Supabase, Notion, Claude (Anthropic), Lovable
+
+### AI-Powered Federal Proposal Platform (Standup AI)
+- Built and scaled a generative-AI B2B SaaS platform from MVP to 700+ beta users, helping businesses identify and analyze federal contracting opportunities aligned with their core competencies
+- Reduced federal solicitation discovery time by 60%+ via AI-driven parsing of 260,000+ active opportunities (RFPs, RFIs, RFQs, grants, SBIR/STTR) using NLP and LLMs
+- Integrated federal data sources via API (SAM.gov, Grants.gov, SBIR.gov, USAspending.gov) to automate opportunity discovery, qualification, and market intelligence
+- Owned prompt engineering, model fine-tuning, and evaluation processes for the LLM pipeline; led an 8-person cross-functional product team using Agile/Scrum and Jira
+
+**Tech Stack:** OpenAI, Gemini, LangChain, Pinecone, PostgreSQL, FastAPI,
 
 ---
 
@@ -51,10 +60,10 @@ AI product executive and operations leader with experience building and scaling 
 
 ## 💼 Experience
 
-### Chief Product Manager / AI Product Executive  
-**Standup AI (Series A)** | 2021–2025  
+### Senior Product Manager / AI Product Executive  
+**Standup AI** | 2021–2025  
 - First product hire; scaled platform from MVP to enterprise deployment  
-- Co-led fundraising, securing **$4.3M Series A** across 12 investors  
+- Co-led fundraising, securing **$4.3M Series A** across 8 investors  
 - Owned product roadmap, OKRs, and board-level reporting  
 - Delivered investor updates, product dashboards (Grafana, PostHog), and executive briefings  
 
@@ -73,7 +82,7 @@ AI product executive and operations leader with experience building and scaling 
 ---
 
 ### Supply Chain Manager  
-**AECOM** | 2017–2021  
+**Amentum** | 2017–2021  
 - Managed **808,000+ sq ft** distribution network and **$650M+ in assets**  
 - Led **156 FTE across 7 managers (~312K annual labor hours)**  
 - Built KPI dashboard eliminating **3,000+ manual labor hours/month**  
