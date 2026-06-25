@@ -1,5 +1,5 @@
 # Jerry Castanos
-**Chief Product Officer | AI / GovTech Platforms | API-Driven Systems**
+**Senior Product Manager | AI / GovTech Platforms | API-Driven Systems**
 
 Global | Open to Global and Remote Roles  
 
