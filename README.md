@@ -10,7 +10,7 @@ Patent: https://patents.google.com/patent/US20250173744A1/en
 ---
 
 ## 🚀 Executive Summary
-AI product executive and operations leader with experience building and scaling Generative AI platforms for government and defense environments. Proven track record delivering measurable impact across product, logistics, and data systems: reduced proposal development time by 30%, increased win rates by 22%. Deep expertise in federal data systems, and AI-enabled workflow automation.
+AI product executive and operations leader with experience building and scaling Generative AI platforms for government and defense environments. Proven track record delivering measurable impact across product, logistics, and data systems: reduced proposal development time. Deep expertise in federal data systems, and AI-enabled workflow automation.
 
 ---
 
