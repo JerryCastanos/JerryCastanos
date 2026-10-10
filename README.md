@@ -28,10 +28,10 @@ AI product executive and operations leader with experience building and scaling 
 
 ## 🏗️ Featured Work
 
-### AI-Powered Practice Operations Platform for UK Barristers' Chambers (Clerk IQ)
+### AI-Powered Operations Platform (Stealth)
 
-- Founded and built an AI-powered practice-operations platform for UK barristers' chambers, covering internal administrative workflows — scheduling, marketing, time/task tracking, and document management (non-legal-advisory; operations only)
-- Conducted discovery with 4 UK barristers to map operational pain points and define product requirements within UK regulatory and data-handling constraints
+- Built an AI-powered practice-operations platform covering internal administrative workflows — scheduling, marketing, time/task tracking, and document management.
+- Conducted discovery calls to map operational pain points and define product requirements within regulatory and data-handling constraints
 - Developed PRDs based on user research; built user stories and personas to guide feature prioritization and design decisions
 - Architected and shipped 5 core modules supporting 2 distinct user roles over 9 months as a solo founder, owning product design, AI/automation features, and core infrastructure
 
