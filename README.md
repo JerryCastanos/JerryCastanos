@@ -7,6 +7,8 @@ LinkedIn: https://www.linkedin.com/in/jerrycastanos/
 
 Patent: https://patents.google.com/patent/US20250173744A1/en
 
+Crunchbase: https://www.crunchbase.com/person/jerry-castanos
+
 ---
 
 ## 🚀 Executive Summary
