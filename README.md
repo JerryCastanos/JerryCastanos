@@ -204,6 +204,28 @@ Western Governors University
   Issued: Feb 2021 | Expired: Feb 2024  
 
 ---
+
+
+## 🎙️ Media & Appearances
+
+Interviews, features, and conversations I've been part of.
+
+### 📰 Articles & Features
+
+- **[StandupAI Empowers Businesses in Federal Contracting Landscape](https://investorshangout.com/standupai-empowers-businesses-in-federal-contracting-landscape-149989-/)** — *Investors Hangout*, Dec 2024
+- **[ImpactVantage Hot Seat: A Chat With Professionals](https://www.ugochiobidiegwu.com/post/impactvantage-hot-seat-a-chat-with-professionals)** — *Ugochi Obidiegwu*, Dec 2024
+- **[Unlocking Government Opportunities: Standup Helps Businesses Focus on Contracts That Fit](https://www.vcpost.com/articles/128634/20241110/unlocking-government-opportunities-standup-helps-businesses-focus-contracts-that-fit.htm)** — *Venture Capital Post*, Nov 2024
+
+<details>
+<summary>📚 Older appearances</summary>
+
+- **[Article title](https://example.com)** — *Publication*, 2023
+- **[Interview title](https://example.com)** — *Outlet*, 2022
+
+</details>
+
+
+---
 ## 📬 Contact
 - LinkedIn: [[link]  ](https://www.linkedin.com/in/jerrycastanos/)
 
