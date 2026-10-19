@@ -143,7 +143,8 @@ AI product executive and operations leader with experience building and scaling 
 ## What I’m Building
 ## Product Portfolio: AI for Government and Crisis Response
 
-Six product builds ordered along the government work lifecycle: plan and fund, find and win, staff, operate, and respond. Each one starts from a real user problem, makes one clear product decision, and ships as a clickable demo.
+Six products along the government work lifecycle: plan and fund, find and win, staff, operate, and respond. 
+Each one starts from a real user problem, and makes one clear product decision.
 
 | # | Project | Description | Demo |
 |---|---|---|---|
