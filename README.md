@@ -219,8 +219,8 @@ Interviews, features, and conversations I've been part of.
 <details>
 <summary>📚 Older appearances</summary>
 
-- **[Article title](https://example.com)** — *Publication*, 2023
-- **[Interview title](https://example.com)** — *Outlet*, 2022
+- **[Entrepreneur hedges bet on local 3-D printing shop](https://www.crainsnewyork.com/article/20140513/SMALLBIZ/305119991/entrepreneur-hedges-bet-on-local-3-d-printing-shop/)** — *Crains New York*, 2014
+- **[3D printing Imagine it. Design it. Hold it in your hands.](https://www.youtube.com/watch?v=ypMOMfWnDSQ)** — *FOX 5 New York*, 2014
 
 </details>
 
