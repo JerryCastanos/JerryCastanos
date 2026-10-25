@@ -9,6 +9,8 @@ Patent: https://patents.google.com/patent/US20250173744A1/en
 
 Crunchbase: https://www.crunchbase.com/person/jerry-castanos
 
+Calendar Booking: https://calendar.app.google/83QPHJJtiffkYeRQ8
+
 ---
 
 ## 🚀 Executive Summary
