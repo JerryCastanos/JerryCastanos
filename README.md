@@ -67,6 +67,15 @@ AI product executive and operations leader with experience building and scaling 
 
 ## 💼 Experience
 
+### Product Manager 
+**Freelancer** | 2021–2025  
+- Reduced product discovery time by 40% through AI strategy mapping and rapid ideation workshops.
+- Accelerated MVP development by building production-ready, user-tested prototypes in Lovable.  
+- Powered context-aware AI features by configuring custom MCP servers and secure API integrations.  
+- Drove end-to-end sprint delivery, from authoring user stories to establishing post-launch telemetry.
+
+---
+
 ### Senior Product Manager / AI Product Executive  
 **Standup AI** | 2021–2025  
 - First product hire; scaled platform from MVP to enterprise deployment  
